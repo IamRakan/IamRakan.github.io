@@ -12,6 +12,6 @@ let PROJECTS = [
     {
         img: "project3.png",
         title: "Car Rental website",
-        description: "During my internship me and my colleagus made a car rental website using asp.NET."
+        description: "During my internship me and my colleagus made a car rental website using ASP.NET."
     }
 ];
